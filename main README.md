@@ -1,70 +1,83 @@
-# 🎓 OIBSIP - Oasis Infobyte Data Science Internship
+# 🌟 Oasis Infobyte – Data Science Internship
 
-**Intern Name:** Vommi Uma Mahesh  
-**Internship Duration:** October – November 2025  
-**Domain:** Data Science  
-
----
-
-## 🧠 Overview
-This repository contains all 5 tasks completed during my **Oasis Infobyte Data Science Internship (AICTE)**.  
-Each project demonstrates practical data science concepts — from data cleaning and visualization to machine learning and model evaluation.
+### 👨‍💻 Intern: Vommi Uma Mahesh  
+**Domain:** Data Science 
+**Batch:** October–November 2025 
+**Organization:** Oasis Infobyte 
+**GitHub:** [Mahesh-363](https://github.com/Mahesh-363)
 
 ---
 
-## 📂 Projects Included
+## 📘 Overview
+This repository contains all the projects I completed during my **Oasis Infobyte Data Science Internship**. 
+The goal of this internship was to explore different real-world datasets and apply data science and machine learning techniques.
 
-| Task | Project Name | Description | Status |
-|------|---------------|--------------|---------|
-| **1** | [Iris Flower Classification](./Task1_Iris_Classification) | Classifies iris flowers using a machine learning model based on petal and sepal measurements. | ✅ Completed |
-| **2** | [Unemployment Analysis](./Task2_Unemployment_Analysis) | Analyzes how COVID-19 lockdown affected unemployment across Indian states. | ✅ Completed |
-| **3** | [Car Price Prediction](./Task3_Car_Price_Prediction) | Predicts car prices based on model, fuel type, year, and other features. | 🚧 In Progress |
-| **4** | [Email Spam Detection](./Task4_Email_Spam_Detection) | Uses NLP and ML to classify emails as spam or not spam. | ⏳ Pending |
-| **5** | [Sales Prediction](./Task5_Sales_Prediction) | Forecasts future sales using regression models. | ⏳ Pending |
+As per the internship requirement, completing **3 tasks** is enough for successful completion — and I’ve completed all three tasks listed below ✅
 
 ---
 
-## ⚙️ Technologies Used
-- **Python**
-- **Pandas**
-- **Matplotlib / Seaborn**
-- **Scikit-learn**
-- **Plotly**
-- **NumPy**
+## 📂 Projects Overview
+
+| Task No. | Project Title | Description | Key Skills |
+|-----------|----------------|--------------|-------------|
+| **1** | **Iris Flower Classification** | A machine learning model that predicts the Iris flower species based on petal and sepal measurements. | Python, Pandas, Scikit-learn, RandomForestClassifier |
+| **2** | **Unemployment Analysis (India)** | Analyzed unemployment trends in different Indian states and visualized the data using Seaborn and Plotly. | Data Analysis, Visualization, Pandas, Plotly |
+| **3** | **Car Price Prediction** | Built a regression model to predict the selling price of cars based on their features. | Machine Learning, RandomForestRegressor, Feature Importance |
 
 ---
 
-## 🧩 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/mahesh-linuxx/OIBSIP.git
-2. Navigate to any project folder:
+## 🧩 Task Details
 
-cd OIBSIP/Task1_Iris_Classification
+### 🧠 **Task 1 – Iris Flower Classification**
+- Created a classification model using the Iris dataset.
+- Compared model accuracy and confusion matrix.
+- **Algorithm Used:** Random Forest Classifier 
+- **Accuracy Achieved:** 100% 
+- 📁 [View Task Folder](./Task1_Iris_Classification)
 
+---
 
-3. Run the Python file:
+### 📊 **Task 2 – Unemployment Analysis (India)**
+- Studied unemployment rates across states during COVID-19.
+- Created trend and state-wise visualization charts.
+- **Tools Used:** Pandas, Seaborn, Plotly 
+- **Insights:** Puducherry had the highest unemployment (76.74%), while Assam had the lowest (0%). 
+- 📁 [View Task Folder](./Task2_Unemployment_Analysis)
 
-python iris_flower_predictor.py
+---
 
+### 🚗 **Task 3 – Car Price Prediction**
+- Predicted car resale prices using Random Forest Regressor.
+- Evaluated model using R² score and MAE.
+- **R² Score:** 0.966 
+- **Mean Absolute Error:** 0.589 
+- **Visuals Included:** Car price comparison & feature importance charts 
+- 📁 [View Task Folder](./Task3_Car_Price_Prediction)
 
-4. View generated visualizations and results in the same folder.
+---
 
-🏁 Completion Note
+## 🧰 Technologies Used
 
-This internship enhanced my skills in:
+| Category | Tools/Libraries |
+|-----------|----------------|
+| **Language** | Python 🐍 |
+| **Libraries** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly |
+| **Environment** | Jupyter Notebook / VS Code |
+| **Version Control** | Git & GitHub |
 
-Data Analysis
+---
 
-Data Visualization
+## 🏁 Conclusion
+Completing these projects helped me understand how data can be processed, visualized, and used to make predictions. 
+Each task gave me hands-on experience with **machine learning**, **EDA**, and **data visualization**.
 
-Machine Learning Model Building
+> *"Data tells stories — you just need the right tools to listen to it."* 
 
-Exploratory Data Analysis (EDA)
+---
 
-🌟 Author
+### 📫 Contact
+📍 **Vommi Uma Mahesh**
+🔗 [LinkedIn](linkedin.com/in/vommi-uma-mahesh-0b5195251)
+---
+⭐ **Thank you for visiting my internship project repository!**
 
-Vommi Uma Mahesh
-Oasis Infobyte Data Science Intern
-📍 India
-📧 support@oasisinfobyte.com
